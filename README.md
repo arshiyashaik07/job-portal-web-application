@@ -98,20 +98,29 @@ GET	/api/applications/user/{userId}	Get candidate applications
 GET	/api/applications	Get all applications
 PUT	/api/applications/{id}/status?status=ACCEPTED	Accept application
 PUT	/api/applications/{id}/status?status=REJECTED	Reject application
-Screenshots
-Jobs Page
 
-Candidate Registration
+## Screenshots
 
-Candidate Login
+### Jobs Page
+![Jobs Page](01-job-page.png)
 
-My Applications
+### Candidate Registration
+![Candidate Registration](02-register-page.png)
 
-Admin Add Job
+### Candidate Login
+![Candidate Login](03-login-page.png)
 
-Admin Applications
+### My Applications
+![My Applications](04-my-application.png)
 
-Admin Job Management
+### Admin Add Job
+![Admin Add Job](05-admin-add-job.png)
+
+### Admin Applications
+![Admin Applications](06-admin-application.png)
+
+### Admin Job Management
+![Admin Job Management](07-admin-job-management.png)
 
 How to Run the Project
 Backend Setup
