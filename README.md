@@ -79,6 +79,7 @@ Job-Portal-Project
 │   └── 07-admin-job-management.png
 │
 └── README.md
+```
 
 API Endpoints
 Authentication APIs
