@@ -170,15 +170,6 @@ Add Job
   "salary": "4-8 LPA",
   "description": "Looking for a fresher Java Full Stack Developer with good knowledge of Spring Boot and React."
 }
-Resume Project Description
 
-Job Portal Web Application | Java, Spring Boot, React, MySQL
-
-Developed a full-stack job portal application with candidate and admin role-based access.
-Built REST APIs using Spring Boot for authentication, job management, and application tracking.
-Implemented candidate features including registration, login, job browsing, job application, and application status tracking.
-Created admin features to add, edit, delete jobs, view applications, and accept or reject candidates.
-Integrated React frontend with Spring Boot backend and MySQL database.
 Author
-
 Arshiya Shaik
